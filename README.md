@@ -1,8 +1,8 @@
 ### Hi there I am Daria Knyazeva from Russia 👋
 
-### I am Sotware Developer (over 15 years of experience), Project Manager (PMP sertified), Artist.
+### I am Sotware Developer (over 15 years of experience), Project Manager (PMP sertified), Artist (self-taught).
 
-I am recently interested in Machine Learning and Data Science.
+## Machine Learning and Data Science
 
 I have gained certificates:
 
@@ -12,9 +12,9 @@ I have gained certificates:
 
 [Machine Learning](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972224~34133/pdf)
 
-I also have work experience in this area, I ran my own startup to help ML companies clean and normalize raw data.
+I also have work experience in this area, I ran my own startup that provides services to innovative companies in Artificial Intelligence / Machine Learning. ***DataTiding Agency*** helped to clean and normalize the collected data samples to prepare them for analysis and to be ready to feed to Machine Learning algorythms. It is said that *"tidy datasets are all alike but every messy dataset is messy in its own way"*. DataTiding Agency structure your dataset to meet ***Codd’s 3rd normal form***, that is each variable is a *column*, each observation is a *row*, each observational unit is a *table*. We give you an IPython notebook (Jupyter), which you can run for cleaning your stuff as the new data is collected or new problems come to light. Up to 80% of data analysis is spent on the process of cleaning the dataset. We help you to focus on the interesting domain problem, not on the routine logistics of data.
 
-### My Artist account
+## My Artist account
 
 I transforme plasticine into Art, inspire people.
 
