@@ -12,7 +12,11 @@ I have gained certificates:
 
 I also have work experience in this area, I ran my own startup to help ML companies clean and normalize raw data.
 
-My Artist Instagram account:
+###My Artist account:
+
+I transforme plasticine into Art, inspire people.
+
+Plasticine painting is very unique, yet it is starting to gain popularity. I can call myself a pioneer, and receiving a painting from me will place you in avant-garde too. I paint with the tips of my fingers, sharing Love, Happiness and my Energy with you. I collect orders from all over the world, DM me on my Artist account for orders:
 
 [Instagram](https://www.instagram.com/daria_heliolater/)
 
