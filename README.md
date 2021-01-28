@@ -2,6 +2,8 @@
 
 ### I am Sotware Developer (over 15 years of experience), Project Manager (PMP sertified), Artist (self-taught).
 
+[LinkedIn](https://www.linkedin.com/in/dariaknyazeva/)
+
 ## Machine Learning and Data Science
 
 I have gained certificates:
