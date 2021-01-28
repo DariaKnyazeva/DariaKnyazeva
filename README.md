@@ -10,9 +10,11 @@ I have gained certificates:
 
 [Applied Data Science with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/D5ED4S7SRQSV)
 
+[Machine Learning](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972224~34133/pdf)
+
 I also have work experience in this area, I ran my own startup to help ML companies clean and normalize raw data.
 
-###My Artist account:
+### My Artist account
 
 I transforme plasticine into Art, inspire people.
 
