@@ -1,4 +1,4 @@
-### Hi there I am Daria Knyazeva from Russia 👋
+### Hi there I am Daria Knyazeva 👋
 
 ### I am Sotware Developer (over 15 years of experience), Project Manager (PMP sertified), Artist (self-taught).
 
